@@ -6,8 +6,8 @@ from time import sleep
 
 logger.info('[SCRIPT START]')
 
-FB_USER = "Caspergc1003@gmail.com"
-FB_PASS = "Bfy5VMMMM699#qbGlrQD"
+FB_USER = "email"
+FB_PASS = "password"
 
 print('Starting Tinder Second Like script...')
 bot = Tinderbot()
